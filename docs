@@ -1,1 +1,22 @@
 notes here
+
+Todo next
+1 Homebrew has enabled anonymous aggregate formulae and cask analytics.
+
+Read the analytics documentation (and how to opt-out) here:
+	⁃	https://docs.brew.sh/Analytics
+No analytics data has been sent yet.
+
+Homebrew is run entirely by unpaid volunteers. Please consider donating:
+	⁃	https://github.com/Homebrew/brew#donations
+
+Next steps:
+	⁃	To add Homebrew to your PATH, add to your shell profile (e.g. ~/.bash_profile or ~/.zprofile):
+	⁃	eval "$(/opt/homebrew/bin/brew shellenv)" on Apple Silicon
+	⁃	eval "$(/usr/local/bin/brew shellenv)" on Intel
+	⁃	Run brew help to get started
+	⁃	Further documentation:
+	⁃	https://docs.brew.sh
+
+2 Git
+3 Hosting
