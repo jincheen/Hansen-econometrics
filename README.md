@@ -27,12 +27,13 @@ Reference: Econometrics, Bruce E. Hansen, University of Wisconsin
 1. The problem of Identification in Economics
 2. Linear Static Models with additive effects(FE, RE, etc.)
 3. Instrumental Variable
-4. Dynamic Panel Data Models
-5. Miscellaneous Topics in Panel Data
-6. Tobit, Heckman Two-Step Estimation
-7. Causal Inference, Matching, Propensity Score
-8. Difference-in-Differences(1)
+4. Bartik IV(shift share instrumental variable, SSIV)
+5. Dynamic Panel Data Models
+6. Miscellaneous Topics in Panel Data
+7. Tobit, Heckman Two-Step Estimation
+8. Causal Inference, Matching, Propensity Score
+9. Difference-in-Differences(1)
    DID: staggered & heterogeneous treatment effects
-9. Regression Discontuity
-10. Panel Data with Interactive Fixed Effects
-11. Panel Data Causal Inference(1): The Synthetic Control Method
+10. Regression Discontuity
+11. Panel Data with Interactive Fixed Effects
+12. Panel Data Causal Inference(1): The Synthetic Control Method
